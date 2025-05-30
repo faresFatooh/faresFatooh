@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! My name is Fares Shaher Fattouh and I'm a Mobile and Web Application Developer, from Gaza, Palestine</h2>
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faresFatooh/faresFatooh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faresFatooh/faresFatooh/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/faresFatooh/faresFatooh/output/github-contribution-grid-snake.svg" />
+</picture>
 ###
 
 <div align="center">
@@ -59,12 +65,6 @@
 
 ###
 
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faresFatooh/faresFatooh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faresFatooh/faresFatooh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/faresFatooh/faresFatooh/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ###
